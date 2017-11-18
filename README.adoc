@@ -33,5 +33,5 @@ Detail Activity (Tablet) </br>
 * Volley
 
 ### Notes
-  * Republish of The Big Material Design Theory
-    * Uploaded through more proper Git and Github channels to show proficiency in Git commits, pushs, pulls, etc.
+* Republish of The Big Material Design Theory
+	* Uploaded through more proper Git and Github channels to show proficiency in Git commits, pushs, pulls, etc.
